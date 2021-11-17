@@ -2,7 +2,7 @@
 title: Contact us
 sections:
   - type: HeroSection
-    title: Contact us
+    title: Hello World
     text: >-
       Fill out the form below and we will get in touch within 1 business day.
       Various versions have evolved over the years, sometimes by accident,
